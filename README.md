@@ -61,3 +61,7 @@ Place titanic.csv in your project folder.
 Run the script:
 
 python train_model.py
+
+## 📊 Visualization
+<img width="1920" height="1077" alt="Screenshot 2025-11-17 230956" src="https://github.com/user-attachments/assets/f9ce6279-a7c7-4c6b-9975-e82f7d8fb7bd" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-17 230809" src="https://github.com/user-attachments/assets/286a3db3-a5fb-4138-9eae-f3ab1d990d68" />
